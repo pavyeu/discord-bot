@@ -1,0 +1,14 @@
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\obj\Debug\net8.0\Pojistenci_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\obj\Debug\net8.0\Pojistenci_projekt.AssemblyInfoInputs.cache
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\obj\Debug\net8.0\Pojistenci_projekt.AssemblyInfo.cs
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\obj\Debug\net8.0\Pojistenci_projekt.csproj.CoreCompileInputs.cache
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\bin\Debug\net8.0\Pojistenci_projekt.exe
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\bin\Debug\net8.0\Pojistenci_projekt.deps.json
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\bin\Debug\net8.0\Pojistenci_projekt.runtimeconfig.json
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\bin\Debug\net8.0\Pojistenci_projekt.dll
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\bin\Debug\net8.0\Pojistenci_projekt.pdb
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\obj\Debug\net8.0\Pojistenci_projekt.dll
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\obj\Debug\net8.0\refint\Pojistenci_projekt.dll
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\obj\Debug\net8.0\Pojistenci_projekt.pdb
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\obj\Debug\net8.0\Pojistenci_projekt.genruntimeconfig.cache
+C:\Users\pavyy\Dropbox\C#\oop\Pojistenci_projekt\Pojistenci_projekt\obj\Debug\net8.0\ref\Pojistenci_projekt.dll
